@@ -1,4 +1,4 @@
-# React Testing Library Project
+# TrybeWallet Project
 
 # Contexto
 Este projeto trata-se do desenvolvimento de uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
